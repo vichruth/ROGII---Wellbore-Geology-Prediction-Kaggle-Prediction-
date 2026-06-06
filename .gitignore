@@ -2,3 +2,6 @@
 *.pptx
 *.pdf
 
+# the entire training data is too big to by commited to git
+train/
+
